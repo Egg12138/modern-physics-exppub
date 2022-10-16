@@ -6,7 +6,9 @@
     "exp_list": {
 	    "compton",
 	    "ccd",
+	    "zeeman",
 	    "..."
+
     },
 
 }
