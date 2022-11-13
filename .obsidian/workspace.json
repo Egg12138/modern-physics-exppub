@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f6b7ef745f2ee4c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a897b253f634a21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66dc89e7a7c9d811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bfda0120a7ac39e",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf33fdb2d1ee72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d3541840bf0253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e5b3f4fed89fb50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fd2b5cd4fb6547c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b69c458720b5200",
+    "type": "split",
+    "children": [
+      {
+        "id": "4337a337ebe053c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d4cb06d05bd9b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d321d990c8a08d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bdffa94d5933d85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef80ea4bdba61f84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "报告.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66dc89e7a7c9d811",
+  "lastOpenFiles": [
+    "LIA第二次预习报告.pdf",
+    "报告.md",
+    "images/fit_ex.png.md"
+  ]
+}
