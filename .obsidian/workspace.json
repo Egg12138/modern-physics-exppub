@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "1dca8fa0a7815da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb126354d5eadda2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e9dbb6e81595f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真空预习报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0882c1f546184a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1c8053743aaa94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fcafb6b365407c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b9560aa11bca785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1826028ea36dc95d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b59d884208056029",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d27c1b484fbeee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4a2e224eff80e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "真空预习报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e775b8b8bd70711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "真空预习报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10e46204d61755b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebb2630bb2ed992c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "真空预习报告.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47e9dbb6e81595f5",
+  "lastOpenFiles": []
+}
