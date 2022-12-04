@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "a843acda61ba99b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33c6295dc07f418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ec0e2e2c1a75b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9fce4f35268daad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d8b5f29a6ace10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7106661f3a662f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f4e6a31c32975b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e5d0b153e79b61",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e5f36cfcfa025a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b752f7b41b8138b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f37ec9e7070adb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b15ca48afd853d23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04de95a51dd21b4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d56643f37cfd3f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c7106661f3a662f",
+  "lastOpenFiles": [
+    "真空报告.md"
+  ]
+}
