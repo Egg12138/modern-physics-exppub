@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e33c6295dc07f418",
+        "id": "1bf6db45f078502c",
         "type": "tabs",
         "children": [
           {
-            "id": "35ec0e2e2c1a75b0",
+            "id": "0e4732acce9e104e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "量子密钥分发.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3e5f36cfcfa025a6",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "量子密钥分发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "量子密钥分发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,18 +125,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "量子密钥分发.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3c7106661f3a662f",
+  "active": "0e4732acce9e104e",
   "lastOpenFiles": [
+    "images/bb84.png",
+    "量子密钥分发.md",
+    "images/system_visio_graph.png",
     "真空报告.md"
   ]
 }

@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#ab98e6",
+  "theme": "moonstone",
+  "textFontFamily": "仓耳今楷01,仓耳今楷01 W02,FiraCode NF",
+  "monospaceFontFamily": "FiraCode NFM"
 }
