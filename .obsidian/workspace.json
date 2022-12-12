@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b59d884208056029",
@@ -138,6 +139,15 @@
   },
   "active": "47e9dbb6e81595f5",
   "lastOpenFiles": [
+    "2022-12-12.md",
+    "量子密钥分发.md",
+    "images/system_visio_graph.png",
+    "images/table_11.png",
+    "images/table_12.png",
+    "images/table_10.png",
+    "images/table_4.png",
+    "images/table_3.png",
+    "images/table_2.png",
     "真空预习报告.md"
   ]
 }
